@@ -16,7 +16,7 @@
   <div class="highlight">
     <ol>
       <li>Clone the repository:</li>
-      <pre><code>git clone https://github.com/yourusername/currency-converter.git
+      <pre><code>git clone https://github.com/Prabhjot20022008/currency-converter.git
 cd currency-converter</code></pre>
       <li>Open <code>index.html</code> in your browser.</li>
     </ol>
